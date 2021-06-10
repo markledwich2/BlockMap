@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=792e71ed_002D6cdf_002D4f13_002Dbc28_002Dc1cd9b2a7a0e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BlockDoBasics" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::365928D9-69C8-421C-B412-08DEDE57988F::net5.0::TestBlockMap.Tests.BlockMapBasics&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::365928D9-69C8-421C-B412-08DEDE57988F::net5.0::TestBlockMap.Tests.BlockShouldThrow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d7caa01d_002D0b20_002D4122_002D9202_002D3f931b1443fe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BlockForBasics" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::365928D9-69C8-421C-B412-08DEDE57988F::net5.0::TestBlockMap.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
